@@ -1,6 +1,11 @@
-# Rust Oxide Raid Event Mod
+# 🚀 Rust Oxide Raid Event Mod
 
-A comprehensive Oxide plugin for Rust servers that creates timed raid events where players can spawn raiding items that are automatically removed when the event ends.
+[![Rust](https://img.shields.io/badge/Rust-Server-orange.svg)](https://rust.facepunch.com/)
+[![Oxide](https://img.shields.io/badge/Oxide-Plugin-blue.svg)](https://umod.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/yourusername/rust-oxide-raid-event-mod/releases)
+
+A comprehensive Oxide plugin for Rust servers that creates timed raid events where players can spawn raiding items that are automatically removed when the event ends. Perfect for "raid wipe day" events and special server occasions.
 
 ## Features
 
@@ -137,6 +142,57 @@ This plugin is designed for Rust servers running the Oxide framework. It has bee
 
 For issues or suggestions, please refer to the server administrator.
 
-## Version History
+## 📊 Installation Statistics
+
+![Downloads](https://img.shields.io/github/downloads/yourusername/rust-oxide-raid-event-mod/total.svg)
+![Contributors](https://img.shields.io/github/contributors/yourusername/rust-oxide-raid-event-mod.svg)
+![Last Commit](https://img.shields.io/github/last-commit/yourusername/rust-oxide-raid-event-mod.svg)
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🆘 Support
+
+- **Issues**: [GitHub Issues](https://github.com/yourusername/rust-oxide-raid-event-mod/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/yourusername/rust-oxide-raid-event-mod/discussions)
+- **Discord**: Join our [Discord Server](https://discord.gg/yourinvite)
+
+## ⭐ Show Your Support
+
+Give a ⭐️ if this project helped you!
+
+## 🔄 Version History
 
 - **v1.0.0**: Initial release with full raid event functionality
+  - Complete item tracking system
+  - 13 different raid items supported
+  - Admin permission system
+  - Configurable event duration and reminders
+
+## 🧪 Development
+
+### Prerequisites
+- Rust server with Oxide framework
+- Basic understanding of C# and Oxide plugin development
+
+### Testing
+1. Copy plugin to test server
+2. Grant yourself admin permissions
+3. Test event lifecycle with `/raidevent start`
+4. Verify item removal after event ends
+
+### Building
+This plugin is distributed as source code. Simply place the `.cs` file in your Oxide plugins directory.
+
+---
+
+**Made with ❤️ for the Rust community**

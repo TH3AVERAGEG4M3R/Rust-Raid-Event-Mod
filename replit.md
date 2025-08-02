@@ -40,6 +40,11 @@ A Rust Oxide plugin that creates timed raid events where players can spawn raidi
   - Built automatic item tracking and removal
   - Added configuration and language files
   - Created comprehensive documentation
+- **2025-08-02**: Created professional Git repository structure
+  - Added professional README with badges and detailed documentation
+  - Created LICENSE (MIT), .gitignore, CONTRIBUTING.md, CHANGELOG.md
+  - Added INSTALL.md with step-by-step setup instructions
+  - Repository ready for GitHub publication
 
 ## Dependencies
 - Rust server with Oxide framework
