@@ -1,0 +1,77 @@
+{
+  "Event Duration (minutes)": 60,
+  "Reminder Intervals (minutes)": [30, 15, 5, 1],
+  "Available Raid Items": {
+    "rocket": {
+      "Item Short Name": "ammo.rocket.basic",
+      "Display Name": "Rocket",
+      "Maximum Amount Per Player": 20
+    },
+    "hvrocket": {
+      "Item Short Name": "ammo.rocket.hv",
+      "Display Name": "HV Rocket",
+      "Maximum Amount Per Player": 10
+    },
+    "incendiary": {
+      "Item Short Name": "ammo.rocket.fire",
+      "Display Name": "Incendiary Rocket",
+      "Maximum Amount Per Player": 10
+    },
+    "c4": {
+      "Item Short Name": "explosive.timed",
+      "Display Name": "Timed Explosive Charge",
+      "Maximum Amount Per Player": 15
+    },
+    "satchel": {
+      "Item Short Name": "explosive.satchel",
+      "Display Name": "Satchel Charge",
+      "Maximum Amount Per Player": 20
+    },
+    "rpg": {
+      "Item Short Name": "rocket.launcher",
+      "Display Name": "Rocket Launcher",
+      "Maximum Amount Per Player": 2
+    },
+    "mlrs": {
+      "Item Short Name": "rocket.mlrs",
+      "Display Name": "MLRS Rocket",
+      "Maximum Amount Per Player": 5
+    },
+    "expammo": {
+      "Item Short Name": "ammo.rifle.explosive",
+      "Display Name": "Explosive 5.56 Rifle Ammo",
+      "Maximum Amount Per Player": 100
+    },
+    "40mmhe": {
+      "Item Short Name": "40mm_grenade_he",
+      "Display Name": "40mm HE Grenade",
+      "Maximum Amount Per Player": 30
+    },
+    "40mmsmoke": {
+      "Item Short Name": "40mm_grenade_smoke",
+      "Display Name": "40mm Smoke Grenade",
+      "Maximum Amount Per Player": 20
+    },
+    "beancan": {
+      "Item Short Name": "grenade.beancan",
+      "Display Name": "Beancan Grenade",
+      "Maximum Amount Per Player": 40
+    },
+    "f1": {
+      "Item Short Name": "grenade.f1",
+      "Display Name": "F1 Grenade",
+      "Maximum Amount Per Player": 30
+    },
+    "gl": {
+      "Item Short Name": "multiplegrenadelauncher",
+      "Display Name": "Multiple Grenade Launcher",
+      "Maximum Amount Per Player": 1
+    }
+  },
+  "Admin Permission": "raidevent.admin",
+  "Use Permission": "raidevent.use",
+  "Chat Command": "raidevent",
+  "Chat Prefix": "<color=#ff6b6b>[Raid Event]</color>",
+  "Auto Start Events": false,
+  "Auto Event Times (24h format, e.g., 18:00)": ["18:00", "20:00"]
+}

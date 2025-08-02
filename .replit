@@ -33,4 +33,4 @@ author = "agent"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "echo \"Testing Rust Oxide Plugin Structure...\" && echo \"Checking if we have the main plugin file...\" && ls -la PlayerStatsLeaderboard.cs && echo \"Checking config structure...\" && cat config/PlayerStatsConfig.json && echo \"Checking language file...\" && cat lang/en.json && echo \"Plugin file structure appears valid. This is a Rust Oxide plugin that needs to be loaded on a Rust server with Oxide framework.\""
+args = "echo \"Testing Rust Oxide Raid Event Mod Structure...\" && echo \"Checking main plugin file...\" && ls -la RaidEventMod.cs && echo \"Checking config structure...\" && cat config/RaidEventConfig.json && echo \"Checking language file...\" && cat lang/en.json && echo \"Plugin structure is valid! This is a Rust Oxide plugin for raid events.\""
