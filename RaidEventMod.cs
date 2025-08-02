@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 
 namespace Oxide.Plugins
 {
-    [Info("Raid Event Mod", "YourName", "1.0.0")]
+    [Info("Raid Event Mod", "TH3AVERAGEG4M3R", "1.0.0")]
     [Description("Manages raid events where players can spawn raiding items that get removed when event ends")]
     class RaidEventMod : RustPlugin
     {
