@@ -3,7 +3,7 @@
 [![Rust](https://img.shields.io/badge/Rust-Server-orange.svg)](https://rust.facepunch.com/)
 [![Oxide](https://img.shields.io/badge/Oxide-Plugin-blue.svg)](https://umod.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/yourusername/rust-oxide-raid-event-mod/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](#)
 
 A comprehensive Oxide plugin for Rust servers that creates timed raid events where players can spawn raiding items that are automatically removed when the event ends. Perfect for "raid wipe day" events and special server occasions.
 
@@ -144,9 +144,9 @@ For issues or suggestions, please refer to the server administrator.
 
 ## 📊 Installation Statistics
 
-![Downloads](https://img.shields.io/github/downloads/yourusername/rust-oxide-raid-event-mod/total.svg)
-![Contributors](https://img.shields.io/github/contributors/yourusername/rust-oxide-raid-event-mod.svg)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/rust-oxide-raid-event-mod.svg)
+![Downloads](https://img.shields.io/badge/Downloads-0-blue.svg)
+![Contributors](https://img.shields.io/badge/Contributors-1-green.svg)
+![Last Commit](https://img.shields.io/badge/Last%20Commit-2025--08--02-green.svg)
 
 ## 🤝 Contributing
 
@@ -162,9 +162,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/rust-oxide-raid-event-mod/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/rust-oxide-raid-event-mod/discussions)
-- **Discord**: Join our [Discord Server](https://discord.gg/yourinvite)
+- **Issues**: GitHub Issues (update URL when repository is created)
+- **Discussions**: GitHub Discussions (update URL when repository is created)  
+- **Discord**: Join our Discord Server (add invite link if available)
 
 ## ⭐ Show Your Support
 
